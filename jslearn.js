@@ -93,7 +93,7 @@ for (i = 0; i <= c; i++) {
     console.log(i)
 }
 
-5
+
 // The return statement
 
 function concatenation(given, driven) {

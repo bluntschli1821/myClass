@@ -76,9 +76,9 @@ if ((integer >= 50)&&(integer <= 100)){
 }
 
 //QUESTION NINE
-var age =17;
+var age =18;
 const isStudent = true;
-if ((age >= 18)&&(age <=25)|| isStudent){
+if ((age >= 18)&&(age <=25) && isStudent){
     console.log("Eligible for Discount")
 }else{
     console.log("Not Eligible for Discount")

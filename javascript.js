@@ -27,7 +27,7 @@ var countingNumbers = 0
 // }
 
 const number = 8;
-for (i=1; i<=12; i++){
+for (i=1; i<=6; i++){
     let resultAnswer = number * i;
     console.log(`${number} x ${i} = ${resultAnswer}`)
 }
@@ -36,6 +36,7 @@ for (i=1; i<=12; i++){
 function myFunction ( ){
     //statements
 }
+
 function myFirstFunction (){
     console.log("I am an amazing javascript developer")
 }
